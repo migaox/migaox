@@ -1,4 +1,7 @@
-- 👋 Hi, I’m MiGao
+## 👋 Hi, I’m MiGao
+
+![profile views](https://komarev.com/ghpvc/?username=migaox&style=for-the-badge)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/migaox/migaox/waka-readme.yml?style=for-the-badge)
 
 <!--START_SECTION:waka-->
 
